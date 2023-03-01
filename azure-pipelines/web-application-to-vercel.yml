@@ -2,6 +2,7 @@
 #
 # Deploy Web Application to Vercel
 # Use for: static sites, create react app, react, next
+# Handles preview and production deployments by checking if the branch is 'main'
 #
 # Pre-requisites
 # Private variables for your VERCEL_TOKEN and the VERCEL_ORG_ID, VERCEL_PROJECT_ID
